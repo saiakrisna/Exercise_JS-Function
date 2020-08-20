@@ -1,0 +1,9 @@
+function  multiply(number) {
+            return number - 32;
+        }
+
+        function getCel(fahrenheit){
+            return multiply(fahrenheit) * (5/9);
+        }
+
+       console.log(getCel(15)); 
