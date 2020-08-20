@@ -25,5 +25,6 @@ if (catAge === 1){
 else{
     return getAge(catAge);
 }
-
 };
+console.log(alert("Jadi, hasil konversi "+ put+ " tahun kucing setara dengan  " + conv(put) + " tahun umur manusia."));
+
