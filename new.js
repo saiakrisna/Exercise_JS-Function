@@ -1,3 +1,9 @@
+// Buat function untuk toko online, Ikuti poin-poin dibawah ini:
+//Function mempunyai 2 parameter yaitu nama pembeli dan produk yang dibeli
+//Function akan mengembalikan nilai “Terima kasih (nama //pembeli) telah membeli produk (produk yang dibeli)”
+//Panggil function dengan menggunakan console.log()
+
+
 alert("selamat datang di kera mart, selamat berbelanja")
 
         function belanja(buyer, product){
